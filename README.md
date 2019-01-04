@@ -17,4 +17,4 @@ SCRIPT FOR CHECKING CURRENT DB CREDS BEFORE RUNNING
         source ~/.bash-preexec.sh
 
 # 2: DEFINE A PREEXEC FUNCTION TO INTERCEPT THE SPECIFIC COMMAND
-    # COPY AND PASTE THIS FUNCTION IN  ~/.bashrc
+    # COPY AND PASTE .bashrc File contents into your  ~/.bashrc or any equivalent file
